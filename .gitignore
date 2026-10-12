@@ -1,0 +1,17 @@
+open/
+train/
+test/
+*.zip
+train.csv
+test.csv
+sample_submission.csv
+venv/
+.venv/
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+.DS_Store
+__pycache__/
+.env
