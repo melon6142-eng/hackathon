@@ -1,0 +1,38 @@
+10-16 07:54 STEP0 env/weights sha256
+10-16 07:54 STEP4 ViT x6 fs42 (2 parallel chains on MPS, background while CPU features run)
+10-16 07:54 STEP1 DINO feats
+10-16 07:55 ETA: MAIN(fs42 BL1+ViT6+blend+CSV) ~10-16 12:30, EXTRA(fs 7/123/2026) ~10-17 01:00 (estimates from previous repro run timing)
+10-16 08:04 STEP1 rc=0
+10-16 08:04 STEP2 hand feats
+10-16 08:05 ETA revised: ViT ~38min/model -> MAIN ~10:00, EXTRA ~16:00
+10-16 08:15 STEP2 rc=0
+10-16 08:15 STEP3 BL1 fs42 + test
+10-16 08:16 STEP3 rc=0
+10-16 08:31 VIT orig_s42 rc=0
+10-16 08:31 VIT trans_s42 rc=0
+10-16 09:08 VIT orig_s1 rc=0
+10-16 09:09 VIT trans_s1 rc=0
+10-16 09:46 VIT orig_s2 rc=0
+10-16 09:46 VIT trans_s2 rc=0
+10-16 09:46 STEP5 blend
+10-16 09:46 STEP5 rc=0 MAIN DONE
+10-16 09:46 EXTRA BL1 fs 7/123/2026
+10-16 10:23 VIT orig_s42_fs7 rc=0
+10-16 10:23 VIT trans_s42_fs7 rc=0
+10-16 11:14 VIT orig_s1_fs7 rc=0
+10-16 11:16 VIT trans_s1_fs7 rc=0
+10-16 12:10 VIT orig_s2_fs7 rc=0
+10-16 12:12 VIT trans_s2_fs7 rc=0
+10-16 13:05 VIT orig_s42_fs123 rc=0
+10-16 13:10 VIT trans_s42_fs123 rc=0
+10-16 14:00 VIT orig_s1_fs123 rc=0
+10-16 14:09 VIT trans_s1_fs123 rc=0
+10-16 14:55 VIT orig_s2_fs123 rc=0
+10-16 15:06 VIT trans_s2_fs123 rc=0
+10-16 15:50 VIT orig_s42_fs2026 rc=0
+10-16 16:02 VIT trans_s42_fs2026 rc=0
+10-16 16:46 VIT orig_s1_fs2026 rc=0
+10-16 16:59 VIT trans_s1_fs2026 rc=0
+10-16 17:42 VIT orig_s2_fs2026 rc=0
+10-16 17:52 VIT trans_s2_fs2026 rc=0
+10-16 17:52 EXTRA DONE rc=0
