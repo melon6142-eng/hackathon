@@ -1,0 +1,23 @@
+== start Mon Oct 12 14:10:59 2026 {'arch': 'vit_base_patch14_dinov2.lvd142m', 'size': 252, 'chan': 'trans', 'unfreeze': 4, 'epochs': 30, 'bs': 16, 'lr': 5e-05, 'weight': 0.0, 'tag': 'dinoB_trans'} lo=91.0 hi=189.0
+== start Mon Oct 12 14:26:58 2026 {'arch': 'vit_base_patch14_dinov2.lvd142m', 'size': 252, 'chan': 'trans', 'unfreeze': 4, 'epochs': 30, 'bs': 16, 'lr': 5e-05, 'weight': 0.0, 'tag': 'dinoB_trans'} lo=91.0 hi=189.0
+fold0 ep9 loss 0.1530 va 14.955 t=65
+fold0 ep19 loss 0.0303 va 14.286 t=128
+fold0 ep29 loss 0.0128 va 14.347 t=192
+FOLD0 RMSE 14.347 257s
+fold1 ep9 loss 0.2103 va 12.804 t=65
+fold1 ep19 loss 0.0351 va 12.115 t=128
+fold1 ep29 loss 0.0147 va 11.558 t=191
+FOLD1 RMSE 11.558 255s
+fold2 ep9 loss 0.1397 va 12.480 t=64
+fold2 ep19 loss 0.0283 va 12.944 t=127
+fold2 ep29 loss 0.0161 va 12.397 t=191
+FOLD2 RMSE 12.397 256s
+fold3 ep9 loss 0.1959 va 14.035 t=66
+fold3 ep19 loss 0.0453 va 12.007 t=129
+fold3 ep29 loss 0.0201 va 12.022 t=193
+FOLD3 RMSE 12.022 258s
+fold4 ep9 loss 0.1476 va 14.898 t=66
+fold4 ep19 loss 0.0274 va 14.573 t=130
+fold4 ep29 loss 0.0122 va 14.602 t=194
+FOLD4 RMSE 14.602 259s
+ALL OOF RMSE 13.045 hi_bias -26.0 lo_bias 16.8

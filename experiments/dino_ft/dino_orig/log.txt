@@ -1,0 +1,22 @@
+== start Mon Oct 12 13:41:08 2026 {'arch': 'vit_small_patch14_dinov2.lvd142m', 'size': 224, 'chan': 'orig', 'unfreeze': 4, 'epochs': 30, 'bs': 32, 'lr': 0.0001, 'weight': 0.0, 'tag': 'dino_orig'} lo=91.0 hi=189.0
+fold0 ep9 loss 0.2074 va 15.571 t=20
+fold0 ep19 loss 0.0897 va 15.777 t=38
+fold0 ep29 loss 0.0510 va 15.607 t=55
+FOLD0 RMSE 15.607 72s
+fold1 ep9 loss 0.3232 va 13.872 t=18
+fold1 ep19 loss 0.1023 va 12.795 t=36
+fold1 ep29 loss 0.0471 va 12.997 t=53
+FOLD1 RMSE 12.997 71s
+fold2 ep9 loss 0.1950 va 14.486 t=19
+fold2 ep19 loss 0.0846 va 14.195 t=36
+fold2 ep29 loss 0.0434 va 14.017 t=54
+FOLD2 RMSE 14.017 71s
+fold3 ep9 loss 0.2381 va 13.142 t=19
+fold3 ep19 loss 0.0963 va 13.005 t=37
+fold3 ep29 loss 0.0524 va 13.158 t=54
+FOLD3 RMSE 13.158 71s
+fold4 ep9 loss 0.2008 va 15.940 t=19
+fold4 ep19 loss 0.0820 va 15.883 t=36
+fold4 ep29 loss 0.0364 va 15.082 t=53
+FOLD4 RMSE 15.082 71s
+ALL OOF RMSE 14.210 hi_bias -28.0 lo_bias 18.1

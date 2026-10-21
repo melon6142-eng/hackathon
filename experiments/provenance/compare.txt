@@ -1,0 +1,2 @@
+train (20, 12288) maxabs 4.7564507e-05 maxrel 0.004806457 cos_min 0.9999998
+test (20, 12288) maxabs 3.5881996e-05 maxrel 0.0046459395 cos_min 0.99999994

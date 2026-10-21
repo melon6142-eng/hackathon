@@ -1,0 +1,8 @@
+hard/mid30: mean_n_pseudo≈285
+hard/mid50: mean_n_pseudo≈474
+hard/midw40: mean_n_pseudo≈395
+hard/lowstd20: mean_n_pseudo≈200
+soft/mid30: mean_n_pseudo≈285
+soft/mid50: mean_n_pseudo≈474
+soft/midw40: mean_n_pseudo≈395
+soft/lowstd20: mean_n_pseudo≈200

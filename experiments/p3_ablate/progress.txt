@@ -1,0 +1,57 @@
+10:07:42 start reg rs42 f0
+10:22:56 start reg rs42 f0
+10:28:27 start reg rs42 f1
+10:35:58 start reg rs42 f2
+10:46:14 start reg rs42 f3
+10:56:37 start reg rs42 f4
+11:11:54 DONE reg rs42: rs42 reg ridge: RMSE 12.446 hi -25.7 lo +15.7 hiRMSE 27.5
+11:11:54 start inv rs42 f0
+11:22:18 start inv rs42 f1
+11:32:40 start inv rs42 f2
+11:43:35 start inv rs42 f3
+11:54:42 start inv rs42 f4
+12:10:55 DONE inv rs42: rs42 inv ridge: RMSE 13.431 hi -29.1 lo +17.5 hiRMSE 30.7
+12:10:55 start f30 rs42 f0
+12:22:03 start f30 rs42 f1
+12:28:57 start f30 rs42 f2
+12:33:40 start f30 rs42 f3
+12:38:24 start f30 rs42 f4
+12:45:42 DONE f30 rs42: rs42 f30 ridge: RMSE 12.608 hi -25.3 lo +15.9 hiRMSE 27.2
+12:45:42 start f10 rs42 f0
+12:50:29 start f10 rs42 f1
+12:55:20 start f10 rs42 f2
+13:00:09 start f10 rs42 f3
+13:04:57 start f10 rs42 f4
+13:12:21 DONE f10 rs42: rs42 f10 ridge: RMSE 12.733 hi -28.2 lo +16.7 hiRMSE 29.8
+13:12:21 start scr rs42 f0
+13:17:45 start scr rs42 f1
+13:23:08 start scr rs42 f2
+13:28:32 start scr rs42 f3
+13:33:55 start scr rs42 f4
+13:41:57 DONE scr rs42: rs42 scr ridge: RMSE 13.762 hi -29.6 lo +19.0 hiRMSE 31.3
+13:41:57 ALLDONE rs42
+13:41:57 start reg rs7 f0
+13:46:42 start reg rs7 f1
+13:51:26 start reg rs7 f2
+13:56:12 start reg rs7 f3
+14:00:57 start reg rs7 f4
+14:08:20 DONE reg rs7: rs7 reg ridge: RMSE 12.353 hi -25.6 lo +16.2 hiRMSE 27.4
+14:08:20 start inv rs7 f0
+14:13:05 start inv rs7 f1
+14:17:50 start inv rs7 f2
+14:22:35 start inv rs7 f3
+14:27:24 start inv rs7 f4
+14:34:52 DONE inv rs7: rs7 inv ridge: RMSE 13.503 hi -28.6 lo +17.8 hiRMSE 30.8
+14:34:52 start scr rs7 f0
+14:40:14 start scr rs7 f1
+14:45:34 start scr rs7 f2
+14:50:56 start scr rs7 f3
+14:56:18 start scr rs7 f4
+15:04:18 DONE scr rs7: rs7 scr ridge: RMSE 13.729 hi -28.1 lo +19.0 hiRMSE 30.4
+15:04:18 start f30 rs7 f0
+15:09:02 start f30 rs7 f1
+15:13:47 start f30 rs7 f2
+15:18:31 start f30 rs7 f3
+15:23:16 start f30 rs7 f4
+15:30:38 DONE f30 rs7: rs7 f30 ridge: RMSE 12.430 hi -25.5 lo +15.9 hiRMSE 27.6
+15:30:38 ALLDONE rs7

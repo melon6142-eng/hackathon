@@ -1,0 +1,12 @@
+A0 gen지표만(노이즈제외) Ridge: RMSE 13.871 | hi(>230,n=18) bias -31.4 | lo(<170,n=38) bias +19.6 | repRMSE 13.932
+A0 gen지표만(노이즈제외) LGB: RMSE 14.153 | hi(>230,n=18) bias -29.1 | lo(<170,n=38) bias +20.0 | repRMSE 14.361
+A 새지표(gen+대비변환) Ridge: RMSE 13.834 | hi(>230,n=18) bias -31.3 | lo(<170,n=38) bias +19.2 | repRMSE 13.920
+A 새지표(gen+대비변환) LGB: RMSE 13.718 | hi(>230,n=18) bias -29.0 | lo(<170,n=38) bias +19.2 | repRMSE 13.930
+B A+hand(형상)+grain Ridge: RMSE 13.610 | hi(>230,n=18) bias -30.9 | lo(<170,n=38) bias +19.0 | repRMSE 13.684
+B A+hand(형상)+grain LGB: RMSE 13.600 | hi(>230,n=18) bias -28.2 | lo(<170,n=38) bias +18.6 | repRMSE 13.805
+C B+DINO Ridge블렌드: RMSE 12.879 | hi(>230,n=18) bias -28.9 | lo(<170,n=38) bias +17.2 | repRMSE 12.971
+C B+DINO + B-LGB: RMSE 12.946 | hi(>230,n=18) bias -28.1 | lo(<170,n=38) bias +17.0 | repRMSE 12.953
+D BL1(oof_blend1): RMSE 12.949 | hi(>230,n=18) bias -28.3 | lo(<170,n=38) bias +17.7 | repRMSE 12.949
+E BL1구성+새지표블록 Ridge: RMSE 12.919 | hi(>230,n=18) bias -28.5 | lo(<170,n=38) bias +17.3 | repRMSE 13.018
+E BL1 + 새지표 LGB: RMSE 12.946 | hi(>230,n=18) bias -27.5 | lo(<170,n=38) bias +17.4 | repRMSE 12.950
+E BL1 + B(LGB,Ridge): RMSE 12.989 | hi(>230,n=18) bias -27.6 | lo(<170,n=38) bias +17.4 | repRMSE 12.997
